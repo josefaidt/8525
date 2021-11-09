@@ -36,7 +36,7 @@
       "function": {
         "8525layer52a744ef": {
           "deploymentBucketName": "amplify-8525-next-160742-deployment",
-          "s3Key": "amplify-builds/8525layer52a744ef-LambdaLayerVersion723351b8-build.zip"
+          "s3Key": "amplify-builds/8525layer52a744ef-LambdaLayerVersion96eb7574-build.zip"
         }
       }
     }
