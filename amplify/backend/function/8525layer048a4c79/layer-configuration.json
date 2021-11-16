@@ -1,7 +1,7 @@
 {
   "permissions": [
     {
-      "type": "Public"
+      "type": "Private"
     }
   ],
   "runtimes": [
@@ -11,16 +11,5 @@
       "runtimePluginId": "amplify-nodejs-function-runtime-provider",
       "layerExecutablePath": "nodejs"
     }
-  ],
-  "ephemeral": {
-    "layerVersionPermissionsToUpdate": {
-      "dev": {
-        "4": [
-          {
-            "type": "Public"
-          }
-        ]
-      }
-    }
-  }
+  ]
 }
